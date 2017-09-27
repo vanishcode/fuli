@@ -1,0 +1,28 @@
+{
+    "name": "zhaofuli",
+    "version": "0.0.2",
+    "description": "A useful tool for otaku to browse pictures of beautiful girls.",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/vanishcode/zhaofuli.git"
+    },
+    "keywords": [
+        "pictures",
+        "otaku",
+        "beautiful-girls"
+    ],
+    "author": "vanishcode",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/vanishcode/zhaofuli/issues"
+    },
+    "homepage": "https://github.com/vanishcode/zhaofuli#readme",
+    "dependencies": {
+        "axios": "^0.16.2",
+        "puppeteer": "^0.11.0"
+    }
+}
