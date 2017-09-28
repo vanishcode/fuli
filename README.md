@@ -8,6 +8,6 @@ or
 
 ### 说明
 - 技术不重要，妹子图才重要！
-- 您可以自己简单扩展，很多妹子图网站的目录结构基本一致
+- 您可以自己简单扩展，很多妹子图[网站](http://zhaofuli.info)的目录结构基本一致
 
 ![](http://wx1.sinaimg.cn/mw600/0069lnCQgy1fjy6oz6tkvj30iy0sg0ve.jpg)
